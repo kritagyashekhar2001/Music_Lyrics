@@ -6,4 +6,3 @@ var buttoncolor = const Color(0xffb8c0ff);
 const textcolor = Color(0xff023e8a);
 
 var appbarcolor = const Color(0xffc8b6ff);
-// var exercisecolor = const Color(0xffe7c6ff);

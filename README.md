@@ -19,6 +19,7 @@ A flutter app that gives information about songs using API.
 - Cross platform
 - State management using BLoC Architecture
 - Make using MVC project structure
+- Used Hive database to store liked songs data
 
 
 ## Tech Used
